@@ -29,5 +29,5 @@
 
 [![telegram](https://img.shields.io/badge/Mayank👻-ffffff?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
 
-[![Github](https://img.shields.io/badge/hackelite01-ffffff?style=for-the-badge&logo=github)](https://github.com/hackelite01)
+[![github](https://img.shields.io/badge/hackelite01-ffffff?style=for-the-badge&logo=github)](https://github.com/hackelite01)
 
