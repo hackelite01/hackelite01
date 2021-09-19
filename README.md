@@ -25,6 +25,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackelite01" alt="hackelite01" /></a> </p>
 
+<h1  align="center"> 🔥 Contributions: </h1>
+
+<p  align="center">
+
+<a  href="https://git.io/streak-stats">
+
+<img  src="http://github-readme-streak-stats.herokuapp.com?user=hackelite01&theme=react&background=0d1117&border=666">
+
+</a>
+
 # CONNECT ME.
 
 [![telegram](https://img.shields.io/badge/Mayank👻-ffffff?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
