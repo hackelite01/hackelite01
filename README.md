@@ -44,10 +44,10 @@
 
 </p>
 
-# CONNECT ME.
+# CONNECT ME. 58D68D
 
-[![telegram](https://img.shields.io/badge/Mayank👻-ffffff?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
+[![telegram](https://img.shields.io/badge/Mayank👻-58D68D?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
 
-[![github](https://img.shields.io/badge/hackelite01-ffffff?style=for-the-badge&logo=github)](https://github.com/hackelite01)
+[![github](https://img.shields.io/badge/hackelite01-58D68D?style=for-the-badge&logo=github)](https://github.com/hackelite01)
 
-[![instagram](https://img.shields.io/badge/hackelite01-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
+[![instagram](https://img.shields.io/badge/hackelite01-58D68D?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
