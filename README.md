@@ -50,3 +50,4 @@
 
 [![github](https://img.shields.io/badge/hackelite01-ffffff?style=for-the-badge&logo=github)](https://github.com/hackelite01)
 
+[![instagram](https://img.shields.io/badge/hackelite01-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
