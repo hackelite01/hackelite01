@@ -44,7 +44,7 @@
 
 </p>
 
-# CONNECT ME. 58D68D
+# CONNECT ME..
 
 [![telegram](https://img.shields.io/badge/Mayank👻-58D68D?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
 
