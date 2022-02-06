@@ -1,5 +1,16 @@
-# HEY, I AM MAYANK👻 
-<img align='centre' src='https://telegra.ph/file/db6e1577f5b58d7fe86ec.jpg' width='500"'>
+# HEY
+<!---img align='centre' src='https://telegra.ph/file/db6e1577f5b58d7fe86ec.jpg' width='500"'----->
+```
+
+Name = "Mayank👻"
+
+Who I Am = ['Coding = ❣️']
+
+Age = "19"
+
+Country = "🇮🇳"
+
+```
 
 # MY TOOLS AND LANG.
 
