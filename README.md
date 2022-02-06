@@ -47,11 +47,11 @@ Country = "🇮🇳"
   
   
 [![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](hackelite.sup@gmail.com)
-[![telegram](https://img.shields.io/badge/Mayank👻-58D68D?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
+[![telegram](https://img.shields.io/badge/Mayank👻-0072c6?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
 
-[![github](https://img.shields.io/badge/hackelite01-58D68D?style=for-the-badge&logo=github)](https://github.com/hackelite01)
+[![github](https://img.shields.io/badge/hackelite01-0072c6?style=for-the-badge&logo=github)](https://github.com/hackelite01)
 
-[![instagram](https://img.shields.io/badge/hackelite01-58D68D?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
+[![instagram](https://img.shields.io/badge/hackelite01-0072c6?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
 </b></h2>
 </details>
 
