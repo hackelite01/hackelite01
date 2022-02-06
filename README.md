@@ -1,6 +1,6 @@
 # HEY
 <!---img align='centre' src='https://telegra.ph/file/db6e1577f5b58d7fe86ec.jpg' width='500"'----->
-```
+```python
 
 Name = "Mayank👻"
 
