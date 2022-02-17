@@ -52,6 +52,7 @@ Country = "🇮🇳"
 [![github](https://img.shields.io/badge/hackelite01-0072c6?style=for-the-badge&logo=github)](https://github.com/hackelite01)
 
 [![instagram](https://img.shields.io/badge/hackelite01-0072c6?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
+  [![instagram](https://img.shields.io/badge/Mayank-Rajput-0072c6?style=for-the-badge&logo=instagram)](https://www.instagram.com/mayankrajput.ml)
 </b></h2>
 </details>
 
