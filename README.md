@@ -24,7 +24,7 @@ Country = "🇮🇳"
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=hackelite01)
   
 ![hackelite01 github stats](https://github-readme-stats.vercel.app/api?username=hackelite01&show_icons=true&theme=midnight-purple)
- 
+ <br> https://github-profile-trophy.vercel.app/?hackelite01=ryo-ma&rank=S,SS,SSS,A,AA,AAA,B
 </b></h2>  
 </details>
 
