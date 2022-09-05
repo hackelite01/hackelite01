@@ -1,4 +1,6 @@
-<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
+<h2 align="center"><b><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+ ⠐Personal Information ⠐ <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+</b></h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F78366&size=25&width=600&height=100&lines=A+Passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Python%2CJS%2CBash%2CShell%2C+Go%E2%9D%A4%EF%B8%8F">
