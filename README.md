@@ -15,7 +15,6 @@ Country = "🇮🇳"
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackelite01&theme=vision-friendly-dark)](https://git.io/streak-stats)
-  
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
