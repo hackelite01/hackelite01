@@ -9,9 +9,11 @@
 
 ```python
 Name = "Mayank👻"
-Who I Am = ['Coding = ❣️']
-Age = "21"
-Country = "🇮🇳"
+Age = 21
+Country = :india:
+WhoIAm = ['EH', 'ED']
+Interest = ['Coding ❣️']
+CyberSecurityEnthusiast = True
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackelite01&theme=vision-friendly-dark)](https://git.io/streak-stats)
