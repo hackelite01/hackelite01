@@ -1,5 +1,5 @@
-<h2 align="center"><b><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
- ● Personal Information ● <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<h2 align="center"><b> 
+ ● Personal Information ● 
 </b></h2>
 
 <p align="center">
