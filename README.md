@@ -32,7 +32,6 @@ CyberSecurityEnthusiast = True
 
 [![@hackelite01's Holopin Board](https://holopin.io/api/user/board?user=hackelite01)](https://holopin.io/@hackelite01)
   
-![hackelite01 github stats](https://github-readme-stats.vercel.app/api?username=hackelite01&show_icons=true&theme=midnight-purple)
  <br> 
   
 </b></h2>  
