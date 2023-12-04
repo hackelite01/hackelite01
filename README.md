@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F78366&size=25&width=600&height=100&lines=A+Passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Python%2CJS%2CBash%2CShell%2C+Go%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
+<br>
 
 ```python
 Name = "Mayank👻"
