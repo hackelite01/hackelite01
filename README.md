@@ -26,13 +26,16 @@ CyberSecurityEnthusiast = True
 <br>
   
 ----
-![GitHub followers](https://img.shields.io/github/followers/hackelite01?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=hackelite01.hackelite01)
+
+![](https://visitor-badge.glitch.me/badge?page_id=hackelite01)
+
 [![Profile views](https://komarev.com/ghpvc/?username=hackelite01&label=Profile%20views)](https://github.com/hackelite01)
-![Github Trophy](![](https://github-trophies.vercel.app/?username=hackelite01&theme=onedark)
+
+![Github Trophy](https://github-trophies.vercel.app/?username=hackelite01&theme=onedark)
 
 [![@hackelite01's Holopin Board](https://holopin.io/api/user/board?user=hackelite01)](https://holopin.io/@hackelite01)
   
+> [![View count](https://visitcount.itsvg.in/api?id=hackelite01&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=hackelite01)
  <br> 
   
 </b></h2>  
