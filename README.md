@@ -29,7 +29,7 @@ CyberSecurityEnthusiast = True
 ![GitHub followers](https://img.shields.io/github/followers/hackelite01?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=hackelite01.hackelite01)
 [![Profile views](https://komarev.com/ghpvc/?username=hackelite01&label=Profile%20views)](https://github.com/hackelite01)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=hackelite01&theme=onedark)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=hackelite01&theme=onedark&row=3&column=3)
 
 [![@hackelite01's Holopin Board](https://holopin.io/api/user/board?user=hackelite01)](https://holopin.io/@hackelite01)
   
