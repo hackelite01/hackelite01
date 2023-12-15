@@ -28,9 +28,8 @@ CyberSecurityEnthusiast = True
   
 ----
 
-![](https://visitor-badge.glitch.me/badge?page_id=hackelite01)
 
-[![Profile views](https://komarev.com/ghpvc/?username=hackelite01&label=Profile%20views)](https://github.com/hackelite01)
+[![View count](https://visitcount.itsvg.in/api?id=hackelite01&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=hackelite01)
 
 ![Github Trophy](https://github-trophies.vercel.app/?username=hackelite01&theme=gruvbox)
 
@@ -40,7 +39,8 @@ CyberSecurityEnthusiast = True
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hackelite01&theme=vision_friendly_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackelite01&theme=vision_friendly_dark&utcOffset=8)
 
-> [![View count](https://visitcount.itsvg.in/api?id=hackelite01&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=hackelite01)
+[![Profile views](https://komarev.com/ghpvc/?username=hackelite01&label=Profile%20views)](https://github.com/hackelite01)
+
  <br> 
   
 </b></h2>  
