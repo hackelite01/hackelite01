@@ -27,7 +27,7 @@ CyberSecurityEnthusiast = True
 <br>
   
 ----
-
+![](https://visitor-badge.glitch.me/badge?page_id=hackelite01)
 
 [![View count](https://visitcount.itsvg.in/api?id=hackelite01&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=hackelite01)
 
