@@ -20,7 +20,7 @@ CyberSecurityEnthusiast = True
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<h2 align="center"><b>📔⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐📔
 <br>
 <br>
   
@@ -43,7 +43,7 @@ CyberSecurityEnthusiast = True
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
 <summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+<h2 align="center"><b>📚⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐📚
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hackelite01&layout=compact&theme=midnight-purple&hide=Css">
@@ -57,7 +57,7 @@ CyberSecurityEnthusiast = True
 
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
+<h2 align="center"><b>💓⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐💓
   <br>
   <br>
  
@@ -75,7 +75,7 @@ CyberSecurityEnthusiast = True
 
 <details>
 <summary>⠂𝙷𝚘𝚕𝚘𝚙𝚒𝚗 𝙱𝚘𝚊𝚛𝚍 ⠂</summary>
-<h2 align="center"><b>⠂𝙷𝚘𝚕𝚘𝚙𝚒𝚗 𝙱𝚘𝚊𝚛𝚍 ⠐
+<h2 align="center"><b>📌⠂𝙷𝚘𝚕𝚘𝚙𝚒𝚗 𝙱𝚘𝚊𝚛𝚍 ⠐📌
 <br>
 <br>
  
@@ -87,7 +87,7 @@ CyberSecurityEnthusiast = True
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
 <summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
+<h2 align="center"><b>🤙⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐🤙
   <br>
   <br>
   
