@@ -34,7 +34,6 @@ CyberSecurityEnthusiast = True
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hackelite01&theme=vision_friendly_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackelite01&theme=vision_friendly_dark&utcOffset=8)
 
-[![Profile views](https://komarev.com/ghpvc/?username=hackelite01&label=Profile%20views)](https://github.com/hackelite01)
 
  <br> 
   
