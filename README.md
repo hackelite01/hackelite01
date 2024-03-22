@@ -105,4 +105,4 @@ CyberSecurityEnthusiast = True
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎵 Now playing
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/31zegvyskshoqgjww7eggcv2zkhq?si=btkH_Xr2ROSyrgU7uVYhoA&utm_source=copy-link)
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/31cn6qzl7biqgjq6wd7ws7qi42si)
