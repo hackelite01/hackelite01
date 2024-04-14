@@ -16,7 +16,7 @@ CyberSecurityEnthusiast = True
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hackelite01&theme=vision-friendly-dark)]([https://git.io/streak-stats](https://github.com/hackelite0))
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
@@ -51,7 +51,7 @@ CyberSecurityEnthusiast = True
 </b></h2>  
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 
 <details>
@@ -83,7 +83,7 @@ CyberSecurityEnthusiast = True
 </b></h2>  
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <details>
 <summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
 <h2 align="center"><b>🤙⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐🤙
