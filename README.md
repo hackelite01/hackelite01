@@ -91,12 +91,11 @@ CyberSecurityEnthusiast = True
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](mailto:hackelite.sup@gmail.com)
-[![telegram](https://img.shields.io/badge/Mayank👻-0072c6?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
+[![Gmail](https://img.shields.io/badge/Email-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](mailto:hackelite.sup@gmail.com)
+[![telegram](https://img.shields.io/badge/Telegram-0072c6?style=for-the-badge&logo=telegram)](https://t.me/hackelite01)
 
-[![github](https://img.shields.io/badge/hackelite01-0072c6?style=for-the-badge&logo=github)](https://github.com/hackelite01)
-
-[![instagram](https://img.shields.io/badge/hackelite01-0072c6?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
+[![github](https://img.shields.io/badge/GitHub-0072c6?style=for-the-badge&logo=github)](https://github.com/hackelite01)
+[![instagram](https://img.shields.io/badge/InstaGram-0072c6?style=for-the-badge&logo=instagram)](https://www.instagram.com/hackelite01)
 </b></h2>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
