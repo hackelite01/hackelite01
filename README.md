@@ -105,6 +105,9 @@ CyberSecurityEnthusiast = True
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🧑‍💻Random Cyber Quote
+[![Readme Quotes](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=algolia&border=true)](https://github.com/hackelite01/github-readme-cyber-quotes)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
